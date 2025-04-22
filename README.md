@@ -4,6 +4,8 @@
 - Python 3
 - API-Key from https://freecurrencyapi.com/
 - Modul `python-dotenv` install: `pip install python-dotenv`
+- Modul `requests` install: `pip install requests`
+- Modul `colorama` install: `pip install colorama`
 
 ## Setup
 
