@@ -8,6 +8,7 @@ try:
 except ModuleNotFoundError:
     print(Fore.RED + f"Currency list file not found, please re-download the program!" + Style.RESET_ALL)
     time.sleep(3)
+    exit()
 
 init()
 load_dotenv()
